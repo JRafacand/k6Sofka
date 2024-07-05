@@ -10,3 +10,7 @@ To install k6
 7. At the terminal, run the command k6 run --out json=results.json script.js
 8. The results will be saved in the results.json file
 9. Open the summary.html file to see the results in a more visual way
+    
+# Results:
+
+The page https://petstore.octoperf.com/ had the same response time for 5, 10, and 20 users. The response time was 10m30s seconds
